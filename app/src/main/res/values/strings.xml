@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WisataAplication_Baru</string>
+    <string name="SHARE_KEY">Komentar</string>
+    <string name="RECORD_LIST">RecordList</string>
+</resources>
